@@ -1,0 +1,7 @@
+{
+  "name": "PwnWeb",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
